@@ -67,7 +67,7 @@ Berikut beberapa repositori yang sedang kami garap:
 | :--- | :--- | :---: |
 | [**click_the_ball**](https://github.com/Vixies-Team/click_the_ball) | just click the ball | 🟡 Pengembangan |
 | [**7-minutes before death**](https://github.com/Vixies-Team/7-minutes-before-death) | Game petualangan 2D bertema budaya Nusantara | 🟡 Pengembangan |
-| [**Breaking The Fourth Wall template**] | Landing page organisasi dengan animasi interaktif | 🔵 Rencana |
+| [**Breaking The Fourth Wall template**]() | Landing page organisasi dengan animasi interaktif | 🔵 Rencana |
 
 > [!NOTE]
 > Masih banyak proyek kecil lain yang kami simpan di organisasi ini. Jangan ragu untuk eksplorasi sendiri!
