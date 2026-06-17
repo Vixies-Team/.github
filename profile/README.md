@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <h1>🦊 Vixies Team</h1>
+  <h1>Vixies Team</h1>
   <p><em>Membangun Karya, Belajar Bersama.</em></p>
   <p>
     <a href="#-tentang-kami">Tentang</a> •
@@ -65,10 +65,9 @@ Berikut beberapa repositori yang sedang kami garap:
 
 | Nama Proyek | Deskripsi | Status |
 | :--- | :--- | :---: |
-| [**Vixies-Bot**](link-repo) | Bot Discord serbaguna untuk manajemen komunitas | 🟢 Aktif |
-| [**Journey-Game**](link-repo) | Game petualangan 2D bertema budaya Nusantara | 🟡 Pengembangan |
-| [**Vixies-Landing**](link-repo) | Landing page organisasi dengan animasi interaktif | 🔵 Rencana |
-| [**Study-Case**](link-repo) | Kumpulan studi kasus algoritma dan struktur data | 🟢 Aktif |
+| [**click_the_ball**](https://github.com/Vixies-Team/click_the_ball) | just click the ball | 🟡 Pengembangan |
+| [**7-minutes before death**](https://github.com/Vixies-Team/7-minutes-before-death) | Game petualangan 2D bertema budaya Nusantara | 🟡 Pengembangan |
+| [**Breaking The Fourth Wall template**] | Landing page organisasi dengan animasi interaktif | 🔵 Rencana |
 
 > [!NOTE]
 > Masih banyak proyek kecil lain yang kami simpan di organisasi ini. Jangan ragu untuk eksplorasi sendiri!
@@ -97,9 +96,9 @@ Kami selalu terbuka untuk kolaborasi dan anggota baru, terutama bagi kamu yang:
 Jangan cuma baca, mampir dan ngobrol yuk! 🍵
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/vixies_team)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Vixies-Team)
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/vixies_team)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@vixies_team)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Vixies-Team/)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/Vixies_Group)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@Vixies_Group)
 
 ---
 
